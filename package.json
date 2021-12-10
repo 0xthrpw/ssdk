@@ -1,0 +1,30 @@
+{
+  "name": "ssdk",
+  "version": "0.1.0",
+  "description": "[TESTING] The SuperFarm Software Development Kit for interacting with EVM based NFT marketplaces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xthrpw/ssdk.git"
+  },
+  "keywords": [
+    "Ethereum",
+    "SuperFarm",
+    "NFT"
+  ],
+  "author": "0xthrpw",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/0xthrpw/ssdk/issues"
+  },
+  "homepage": "https://github.com/0xthrpw/ssdk#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "ethers": "^5.5.2",
+    "opensea-js": "^1.2.7",
+    "web3": "^1.6.1"
+  }
+}
